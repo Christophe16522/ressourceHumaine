@@ -253,7 +253,7 @@ public class FonctionTest {
      */
     @Test
     public void testInsertEmployer() {
-        System.out.println("insertEmployer");
+        System.out.println(" Test unitaire insertEmployer");
         int idsal = 0;
         int idhor = 0;
         int idpos = 0;
