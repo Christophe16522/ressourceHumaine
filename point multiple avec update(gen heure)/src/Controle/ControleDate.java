@@ -27,6 +27,7 @@ public class ControleDate {
             rep = rep + sep + date[i];
         }
         System.out.println(rep);
+       //return "test";
         return rep;
     }
     
